@@ -1,4 +1,5 @@
-// crear las clases Edificio, Piso y Departamento aquí
+//Haciendo un cambio para cumplir el desafío
+// Crear las clases Edificio, Piso y Departamento aquí
 class Departamento {
   nombre: string;
 
